@@ -5,7 +5,7 @@ group: sending-email
 navigation:
   show: false
 seo:
-  title: Sender Identity
+  title: Ipl T20 live bet
   override: true
   description: Understanding the difference between Domain Authentication and verifying a Single Sender.
 ---
